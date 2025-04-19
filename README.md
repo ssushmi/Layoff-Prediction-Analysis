@@ -1,5 +1,5 @@
-`**Layoff Prediction using WARN Database**
-`
+**Layoff Prediction using WARN Database**
+
 This project analyzes U.S. layoff trends using the WARN (Worker Adjustment and Retraining Notification) database. By exploring real-time data across states, cities, and industries, the goal is to uncover patterns, identify high-risk sectors, and forecast future layoffs using machine learning techniques.
 
 ### Highlights:
